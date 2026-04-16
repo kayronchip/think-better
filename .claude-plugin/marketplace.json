@@ -7,7 +7,7 @@
     {
       "name": "think-better",
       "description": "Structured thinking partner for decisions and problems. Runs triage, mode selection, guided questioning, and synthesis.",
-      "source": ".",
+      "source": "./",
       "license": "MIT"
     }
   ]
