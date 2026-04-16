@@ -1,0 +1,11 @@
+{
+  "name": "think-better",
+  "description": "Claude Code skills and plugins by Kayron Chip — built for founders, solopreneurs, and knowledge workers.",
+  "plugins": [
+    {
+      "name": "think-better",
+      "description": "Structured thinking partner for decisions and problems. Runs triage, mode selection, guided questioning, and synthesis.",
+      "path": "."
+    }
+  ]
+}
