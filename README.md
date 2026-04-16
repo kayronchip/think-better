@@ -45,7 +45,7 @@ Say any of the following in Claude:
 
 ```bash
 /plugin marketplace add https://github.com/kayronchip/think-better
-/plugin install think-better
+/plugin install think-better@think-better
 ```
 
 Or load it locally during development:
