@@ -1,5 +1,5 @@
 {
   "name": "think-better",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Structured thinking partner for decisions and problems. Runs triage, mode selection, guided questioning, and synthesis. Never gives direct answers."
 }
